@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.4.1"
+  },
+  "dependencies": {
+    "@better-scroll/core": "^2.5.1",
+    "@better-scroll/mouse-wheel": "^2.5.1",
+    "ant-design-vue": "^3.2.17",
+    "mitt": "^3.0.0",
+    "sass": "^1.62.0",
+    "sass-loader": "^13.2.2"
+  }
+}
