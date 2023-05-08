@@ -13,9 +13,9 @@ spring:
     alicloud:
       oss:
         sts:
-          access-key: LTAI5tRjYr5f8FecYJuFzP8S
-          secret-key: lhtPoOnsm1ZFnsuNxSSoYbTWCZOInY
-        endpoint: oss-cn-beijing.aliyuncs.com
+          access-key: ACCESS-KEY
+          secret-key: SECRET-KEY
+        endpoint: ENDPOINT
   servlet:
     multipart:
       enabled: true
